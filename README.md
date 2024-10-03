@@ -11,14 +11,14 @@ Segue abaixo a representação:
 ![image](https://github.com/user-attachments/assets/42a1015c-48a4-4332-98cc-745b279d5cc6)
 
 
+Nas próximas linhas está o algorítimo matemático que criei para descobrir qualquer valor (Y) condizente a segunda fila, que esteja ligado diretamenta a qualquer valor (X) da fila primária
 
-Um bom algorítimo para sabermos o valor de um número da segunda fila que está ligado ao respectivo valor do número da primeira fila pertencente a mesma coluna é:
+Considerando que [Valor_Porta_Primária] = X, segue abaixo a fórmula:
 
 f(x) = x + (x -1), quando x >= 1 e x <= 24 </br>
 f(x) = (x-25) * 2 + 2, quando x >= 25 e x <= 48 </br>
 
-O código acima, 'lista.c', usa do mesmo algorítimo, desta vez usando a linguagem C para representa-lo.
-
+O código vinculado a este repositório, nomeado de 'lista.c', utiliza dos mesmos métodos algébricos para determinar os valores dos números da segunda fila, desta vez em linguagem de programação C.
 
 
 
