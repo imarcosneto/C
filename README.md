@@ -12,7 +12,7 @@ Segue abaixo a representação:
 
 Um bom algorítimo para sabermos qual valor de um dado número(x) da primeira fila está ligado ao respectivo valor da mesma coluna de (x) é:
 
-f(x) = x + (x -1), quando x >= 1 e  x <= 24 </br>
-f(x) = (x-25) * 2 + 2, quando x >= 25 e  x < = 48 </br>
+f(x) = x + (x -1), quando x >= 1; e x <= 24 </br>
+f(x) = (x-25) * 2 + 2, quando x >= 25; e x < = 48 </br>
 
 O código acima 'lista.c' usa do mesmo algorítimo, desta vez usando a linguagem C para representa-lo.
