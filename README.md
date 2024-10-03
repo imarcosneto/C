@@ -8,7 +8,8 @@ Seguindo uma ordem númerica e referencial, é feita uma representação da cone
 
 Segue abaixo a representação:
 
-![image](https://github.com/user-attachments/assets/51671d31-9b87-4003-b803-e6716b7bf2b6)
+![image](https://github.com/user-attachments/assets/00452cb4-8bd9-4fa9-876c-8d8652e6dc67)
+
 
 Um bom algorítimo para sabermos qual valor de um dado número(x) da primeira fila está ligado ao respectivo valor da mesma coluna de (x) é:
 
