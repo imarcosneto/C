@@ -11,7 +11,7 @@ Segue abaixo a representação:
 ![image](https://github.com/user-attachments/assets/00452cb4-8bd9-4fa9-876c-8d8652e6dc67)
 
 
-Um bom algorítimo para sabermos qual valor de um dado número (x) da primeira fila está ligado ao respectivo valor da mesma coluna de (x) é:
+Um bom algorítimo para sabermos o valor de um número da segunda fila que está ligado ao respectivo valor do número da primeira fila pertencente a mesma coluna é:
 
 f(x) = x + (x -1), quando x >= 1 e x <= 24 </br>
 f(x) = (x-25) * 2 + 2, quando x >= 25 e x <= 48 </br>
