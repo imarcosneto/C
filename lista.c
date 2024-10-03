@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <stdio.h> 
 int main(){
     int a;
-    printf("\nEntre com um número do array: ");
+    printf("\nEntre com um número do array correspondente a fila primária: ");
     scanf("%d", &a);
     
     if(a>=1 && a<=24){
