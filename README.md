@@ -2,7 +2,7 @@
 
 Correlacionando números inteiros com C
 
-Suponha que você tem o seguinte problema: Dois equipamentos estão interligados em enlace(ponto-a-ponto) entre eles,
+Suponha que você tem o seguinte problema: dois equipamentos estão interligados em enlace(ponto-a-ponto) entre eles
 
 Seguindo uma ordem númerica e referencial, é feita uma representação da conexão, onde o cada número da linha de cima está físicamente interligado com o respectivo número da linha debaixo, pertencente a mesma coluna.
 
